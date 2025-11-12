@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: root
 incremental: false
 highlighter: rouge
 gist:
@@ -8,3 +8,6 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+theme: academicpages.github.io
+title: Aparajito Bhattacharya
